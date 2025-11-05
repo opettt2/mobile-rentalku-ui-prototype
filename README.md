@@ -1,7 +1,9 @@
 # 🚗 Rentalku — Mobile Car Rental App (UI/UX Prototype)
 
-Rentalku is a mobile UI prototype for a vehicle rental platform that enables users to browse cars, compare rental providers, select rental dates, and complete payment — all through a seamless mobile experience.  
-This design focuses on simplicity, clarity, and a modern rental-flow similar to platforms like Traveloka & Tiket.
+Rentalku is a mobile UI prototype for a vehicle rental platform, built as part of a college project.
+It allows users to browse available cars, compare rental providers, choose rental dates, and complete the booking process through a clean and intuitive interface.
+
+This prototype focuses on simplicity, clarity, and a modern rental flow inspired by platforms like Traveloka and Tiket.com — aiming to provide a familiar and seamless rental experience.
 
 > 🎨 Designed in Figma as a mobile-first experience.
 
